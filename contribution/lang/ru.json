@@ -2772,7 +2772,7 @@
  	},
  	"globalPartyBanner": {
  	 	"title": {
- 	 	 	"trans": "🎉 Глобальная партия 🎉",
+ 	 	 	"trans": "🎉 Глобальная вечеринка 🎉",
  	 	 	"eng": "🎉 Global Party 🎉"
  	 	},
  	 	"subtitle": {
@@ -3149,7 +3149,7 @@
  	 	},
  	 	"afkExpMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Afk exp Multiplier",
+ 	 	 	 	"trans": "Множитель AFK EXP",
  	 	 	 	"eng": "AFK EXP multiplier"
  	 	 	},
  	 	 	"description": {
@@ -3349,7 +3349,7 @@
  	 	},
  	 	"resultScreen": {
  	 	 	"title": {
- 	 	 	 	"trans": "Победа",
+ 	 	 	 	"trans": "Уровень повышен",
  	 	 	 	"eng": "Level up"
  	 	 	},
  	 	 	"subTitle": {
@@ -3476,28 +3476,28 @@
  	 	 	 	"vars": [
  	 	 	 	 	"days"
  	 	 	 	],
- 	 	 	 	"trans": "${days} Дни",
+ 	 	 	 	"trans": "${days} дней",
  	 	 	 	"eng": "${days} days"
  	 	 	},
  	 	 	"hours": {
  	 	 	 	"vars": [
  	 	 	 	 	"hours"
  	 	 	 	],
- 	 	 	 	"trans": "${hours} часы",
+ 	 	 	 	"trans": "${hours} часов",
  	 	 	 	"eng": "${hours} hours"
  	 	 	},
  	 	 	"minutes": {
  	 	 	 	"vars": [
  	 	 	 	 	"minutes"
  	 	 	 	],
- 	 	 	 	"trans": "${minutes} минуты",
+ 	 	 	 	"trans": "${minutes} минут",
  	 	 	 	"eng": "${minutes} minutes"
  	 	 	},
  	 	 	"seconds": {
  	 	 	 	"vars": [
  	 	 	 	 	"seconds"
  	 	 	 	],
- 	 	 	 	"trans": "${seconds} секунды",
+ 	 	 	 	"trans": "${seconds} секунд",
  	 	 	 	"eng": "${seconds} seconds"
  	 	 	}
  	 	}
@@ -6345,7 +6345,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"minute"
  	 	 	 	],
- 	 	 	 	"trans": "Используйте разъем Slanc для подключения SLANC к глобальному чату за ${minute} минут",
+ 	 	 	 	"trans": "Используйте разъем SLANC для подключения SLANC к глобальному чату за ${minute} минут",
  	 	 	 	"eng": "Use SLANC Connector to connect SLANC to global chat for ${minute} minutes"
  	 	 	},
  	 	 	"announcement": {
@@ -6403,7 +6403,7 @@
  	 	 	 	 	"btcPercent",
  	 	 	 	 	"expPercent"
  	 	 	 	],
- 	 	 	 	"trans": "🎉 It Party Time! 🥳, сократить время AFK на ${afkPercent}%, увеличение BTC, полученное на ${btcPercent}%, увеличить exp, полученный ${expPercent}%",
+ 	 	 	 	"trans": "🎉 It Party Time! 🥳, время AFK сокращено на ${afkPercent}%, BTC увеличено на ${btcPercent}%, EXP увеличено на ${expPercent}%",
  	 	 	 	"eng": "🎉Its Party Time!🥳, reduce AFK time by ${afkPercent}%, increased BTC gained by ${btcPercent}%, increase EXP gained by ${expPercent}%"
  	 	 	}
  	 	},
@@ -6416,7 +6416,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"percent"
  	 	 	 	],
- 	 	 	 	"trans": "Вкусная жареная индейка, когда потребляется, увеличивает exp, полученный в AFK -задачах за ${percent}%",
+ 	 	 	 	"trans": "Вкусная жареная индейка, когда потребляется, увеличивает exp, полученный в AFK задачах за ${percent}%",
  	 	 	 	"eng": "A delicious roasted turkey, when consumed increases EXP received in AFK tasks by ${percent}%"
  	 	 	}
  	 	},
@@ -6921,7 +6921,7 @@
  	 	"lunar": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome, our family is always excited to help you find the perfect tech gear."
+ 	 	 	 	 	"Добро пожаловать, наша семья всегда рада помочь вам найти идеальное техническое оборудование."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome, our family is always excited to help you find the perfect tech gear."
@@ -6939,12 +6939,12 @@
  	 	"bellial": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Life is tough, but you're tougher. Keep fighting.",
- 	 	 	 	 	"Stay strong, stay punk, and stay alive.",
- 	 	 	 	 	"Remember, your worth is not defined by your struggles.",
- 	 	 	 	 	"Don't let the system bring you down, rise up and rebel.",
- 	 	 	 	 	"Stay connected to your inner self, and disconnect from the noise.",
- 	 	 	 	 	"Stay online, stay strong, and stay true to yourself."
+ 	 	 	 	 	"Жизнь трудна, но ты жестче. Продолжать бороться.",
+ 	 	 	 	 	"Оставайся сильным, оставайся панком и оставайся в живых.",
+ 	 	 	 	 	"Помните, ваша ценность не определяется вашими трудностями.",
+ 	 	 	 	 	"Не позволяйте системе сломить вас, поднимитесь и восстайте",
+ 	 	 	 	 	"Оставайтесь на связи со своим внутренним «я» и отключитесь от шума.",
+ 	 	 	 	 	"Оставайтесь онлайн, оставайтесь сильными, и оставайтесь верными себе."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Life is tough, but you're tougher. Keep fighting.",
@@ -6967,10 +6967,10 @@
  	 	"halloween": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Pumpkin is my source of power!",
- 	 	 	 	 	"Check out my pumpkin costume!",
- 	 	 	 	 	"Hmmmm, I wonder what's inside this pumpkin...",
- 	 	 	 	 	"Give me your pumpkin, and I'll give you a treat!"
+ 	 	 	 	 	"Тыква — мой источник силы!",
+ 	 	 	 	 	"Посмотрите на мой костюм тыквы!",
+ 	 	 	 	 	"Хмммм, интересно, что внутри этой тыквы...",
+ 	 	 	 	 	"Дай мне свою тыкву, и я угощу тебя!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Pumpkin is my source of power!",
@@ -7148,7 +7148,7 @@
  	 	},
  	 	"bulkCrafting": {
  	 	 	"name": {
- 	 	 	 	"trans": "Объемное крафт",
+ 	 	 	 	"trans": "Массовый крафт",
  	 	 	 	"eng": "Bulk Crafting"
  	 	 	}
  	 	},
@@ -7205,7 +7205,7 @@
  	 	 	"eng": "Mining Level"
  	 	},
  	 	"ammo": {
- 	 	 	"trans": "И levelvel",
+ 	 	 	"trans": "Уровень боеприпасов",
  	 	 	"eng": "Ammo Level"
  	 	},
  	 	"medical": {
@@ -7213,7 +7213,7 @@
  	 	 	"eng": "Medical Level"
  	 	},
  	 	"scavenge": {
- 	 	 	"trans": "Уровень мастера",
+ 	 	 	"trans": "Уровень сбора",
  	 	 	"eng": "Scavenge Level"
  	 	},
  	 	"molecular": {
@@ -7228,11 +7228,11 @@
  	 	 	"vars": [
  	 	 	 	"minutes"
  	 	 	],
- 	 	 	"trans": "Обновления списка лидеров каждые ${minutes} минуты",
+ 	 	 	"trans": "Обновления списка лидеров каждые ${minutes} минут",
  	 	 	"eng": "Leaderboard listing updates every ${minutes} minutes"
  	 	},
  	 	"noPlayers": {
- 	 	 	"trans": "В настоящее время нет игроков в этом таблице лидеров",
+ 	 	 	"trans": "В настоящее время нет игроков в этой таблице лидеров",
  	 	 	"eng": "Currently No Players in this Leaderboard"
  	 	}
  	},
@@ -7280,7 +7280,7 @@
  	 	 	},
  	 	 	"molecularPrint": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Распечатать оборудование",
+ 	 	 	 	 	"trans": "Распечатать оборудовани",
  	 	 	 	 	"eng": "Print equipment"
  	 	 	 	},
  	 	 	 	"description": {
@@ -7380,11 +7380,11 @@
  	 	 	},
  	 	 	"killGang2": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Победить член парни в Вуду",
+ 	 	 	 	 	"trans": "Победить членов банды Voodoo boys ",
  	 	 	 	 	"eng": "Defeat Voodoo boys gang member"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Победить Вуду, мальчики, враги банды",
+ 	 	 	 	 	"trans": "Победить Voodoo boys врагов банды",
  	 	 	 	 	"eng": "Defeat Voodoo boys gang enemies"
  	 	 	 	}
  	 	 	},
@@ -7495,7 +7495,7 @@
  	 	},
  	 	"medicalTechClusterRevers": {
  	 	 	"name": {
- 	 	 	 	"trans": "Медицинская техническая лом",
+ 	 	 	 	"trans": "Медицинский технический лом",
  	 	 	 	"eng": "Medical Tech Scrap"
  	 	 	}
  	 	},
@@ -7588,7 +7588,7 @@
  	 	 	"eng": "Calibration Safety Nano Bot"
  	 	},
  	 	"afkRewardBoost": {
- 	 	 	"trans": "AFK награда Boost",
+ 	 	 	"trans": "Буст AFK награды",
  	 	 	"eng": "AFK Reward Boost"
  	 	},
  	 	"pirate": {
@@ -7620,15 +7620,15 @@
  	 	 	"eng": "Flash Grenade"
  	 	},
  	 	"aiConnect": {
- 	 	 	"trans": "Cyberspace Connection",
+ 	 	 	"trans": "Связь с киберпространством",
  	 	 	"eng": "Cyberspace Connection"
  	 	},
  	 	"globalParty": {
- 	 	 	"trans": "Глобальная партия",
+ 	 	 	"trans": "Глобальная вечеринка",
  	 	 	"eng": "Global Party"
  	 	},
  	 	"afkExp": {
- 	 	 	"trans": "AFK Exp Boost",
+ 	 	 	"trans": "Буст AFK EXP",
  	 	 	"eng": "AFK EXP Boost"
  	 	}
  	},
@@ -7694,7 +7694,7 @@
  	},
  	"chatServer": {
  	 	"restarting": {
- 	 	 	"trans": "Сервер чата перезагружается для обновления ...",
+ 	 	 	"trans": "Сервер чата перезагружается для обновления...",
  	 	 	"eng": "Chat Server is restarting for a update..."
  	 	}
  	},
@@ -7704,7 +7704,7 @@
  	 	 	"eng": "Inaccurate Device Time"
  	 	},
  	 	"confirm": {
- 	 	 	"trans": "Ok",
+ 	 	 	"trans": "Ок",
  	 	 	"eng": "Ok"
  	 	},
  	 	"cancel": {
@@ -7714,7 +7714,7 @@
  	},
  	"dungeon": {
  	 	"enemyInRoomDoorError": {
- 	 	 	"trans": "Вы не можете использовать дверь, пока враги ещё в комнате",
+ 	 	 	"trans": "Вы не можете использовать дверь, пока враги в комнате",
  	 	 	"eng": "You cannot use door while there is still enemy in room"
  	 	},
  	 	"enemyInCrateDoorError": {
@@ -7833,7 +7833,7 @@
  	 	 	}
  	 	},
  	 	"shareDungeon": {
- 	 	 	"trans": "Делиться",
+ 	 	 	"trans": "Поделиться",
  	 	 	"eng": "Share"
  	 	},
  	 	"buttonTut": {
@@ -7841,7 +7841,7 @@
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"cleared": {
- 	 	 	"trans": "Подземелье очистилось!",
+ 	 	 	"trans": "Подземелье очищено!",
  	 	 	"eng": "Dungeon cleared!"
  	 	}
  	},
@@ -7994,7 +7994,7 @@
  	 	 	"vars": [
  	 	 	 	"slot"
  	 	 	],
- 	 	 	"trans": "Обновление рынка рынка до ${slot}",
+ 	 	 	"trans": "Обновление рыночного слота до ${slot}",
  	 	 	"eng": "Upgrade Market Slot to ${slot}"
  	 	},
  	 	"upgradeSlotDesc": {
@@ -8014,7 +8014,7 @@
  	},
  	"mobile": {
  	 	"returnToAppMessage": {
- 	 	 	"trans": "Синхронизировать с сервером ..",
+ 	 	 	"trans": "Синхронизировать с сервером..",
  	 	 	"eng": "Syncing with server.."
  	 	}
  	},
@@ -8244,7 +8244,7 @@
  	 	},
  	 	"freeButton": {
  	 	 	"text": {
- 	 	 	 	"trans": "Претендовать бесплатно",
+ 	 	 	 	"trans": "Забрать бесплатно",
  	 	 	 	"eng": "Claim for free"
  	 	 	}
  	 	},
@@ -8261,7 +8261,7 @@
  	 	 	"eng": "enter new notice"
  	 	},
  	 	"submit": {
- 	 	 	"trans": "отправлять",
+ 	 	 	"trans": "отправить",
  	 	 	"eng": "send"
  	 	}
  	},
@@ -8305,7 +8305,7 @@
  	},
  	"gangQuestAcceptModal": {
  	 	"title": {
- 	 	 	"trans": "Dungeon Quest обнаруживается",
+ 	 	 	"trans": "Обнаружен квест в подземелье",
  	 	 	"eng": "Dungeon Quest Detected"
  	 	},
  	 	"quest": {
@@ -8314,7 +8314,7 @@
  	 	 	 	"eng": "Gang Bounty"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Принимая этот квест и победить членов банды неизвестной банды, чтобы получить награды",
+ 	 	 	 	"trans": "Примите этот квест и победите членов неизвестной банды для получения награды.",
  	 	 	 	"eng": "Accepting this quest and defeat gang members of a unknown gang to receive rewards"
  	 	 	},
  	 	 	"reward": {
@@ -8333,7 +8333,7 @@
  	},
  	"artPromo": {
  	 	"title": {
- 	 	 	"trans": "Spooky Permance Art Competition!",
+ 	 	 	"trans": "Конкурс рисунков жутких персонажей!",
  	 	 	"eng": "Spooky Character Art Competition!"
  	 	},
  	 	"desc1": {
@@ -8355,7 +8355,7 @@
  	 	 	"eng": "Its the spooky time of the year again! Shang-ri-la is celebrating Halloween with a special event!"
  	 	},
  	 	"desc2v2": {
- 	 	 	"trans": "У врагов и AI Core Auto Farm будет шанс сбросить Jack-O-фонари!",
+ 	 	 	"trans": "У врагов и AI Core Auto Farm будет шанс сбросить Джек-о-фонари!",
  	 	 	"eng": "Enemies and AI Core auto farm will have chance to drop Jack-o-lanterns!"
  	 	},
  	 	"desc3v2": {
@@ -8363,7 +8363,7 @@
  	 	 	 	"npc",
  	 	 	 	"location"
  	 	 	],
- 	 	 	"trans": "Вы можете найти ${npc} в ${location} Во время Хэллоуина он обменяет ваши фонарики Jack-O на вознаграждения!",
+ 	 	 	"trans": "Вы можете найти ${npc} в ${location} Во время Хэллоуина он обменяет ваши Джек-о-фонари на вознаграждения!",
  	 	 	"eng": "You can find ${npc} at ${location} during Halloween, he will exchange your Jack-o-lanterns for rewards!"
  	 	},
  	 	"desc4v2": {
@@ -8413,7 +8413,7 @@
  	},
  	"christmasPromo": {
  	 	"title": {
- 	 	 	"trans": "Счастливых зимних праздников!!",
+ 	 	 	"trans": "Счастливых зимних праздников!",
  	 	 	"eng": "Happy Winter Holiday!"
  	 	},
  	 	"desc1": {
@@ -8431,7 +8431,7 @@
  	 	},
  	 	"v3": {
  	 	 	"desc3": {
- 	 	 	 	"trans": "Во время праздничного сезона будут доступны рождественская рама чата и эмблема!",
+ 	 	 	 	"trans": "Во время праздничного сезона будут доступны рамка и эмблема рождественского чата!",
  	 	 	 	"eng": "During the holiday season, Christmas chat frame and emblem will be available!"
  	 	 	}
  	 	}
@@ -8442,7 +8442,7 @@
  	 	 	"eng": "Christmas Event!"
  	 	},
  	 	"desc": {
- 	 	 	"trans": "Время ограничена добыча и рама чата!",
+ 	 	 	"trans": "Ограниченный по времени лут и рамка чата!",
  	 	 	"eng": "Time limited loot and chat frame!"
  	 	}
  	},
@@ -8498,7 +8498,7 @@
  	 	 	"eng": "Referral rewards"
  	 	},
  	 	"desc": {
- 	 	 	"trans": "Бесплатный блок*, редкий заблокированный контейнер, пакет Fanny",
+ 	 	 	"trans": "Бесплатный Unit*, редкий заблокированный контейнер, пакет Fanny",
  	 	 	"eng": "Free Unit*, Rare Locked Container, Fanny Pack"
  	 	},
  	 	"details": {
@@ -8525,7 +8525,7 @@
  	 	 	"eng": "Earn free exclusive cosmetics by skipping"
  	 	},
  	 	"subtitle": {
- 	 	 	"trans": "Покажите, сколько вы помогли сообществу, пропустив! ❤",
+ 	 	 	"trans": "Покажите, сколько вы помогли сообществу, пропустив!❤",
  	 	 	"eng": "Show off how much you have helped the community by skipping!❤️"
  	 	},
  	 	"desc1": {
@@ -8533,7 +8533,7 @@
  	 	 	 	"amount",
  	 	 	 	"emblem"
  	 	 	],
- 	 	 	"trans": "выполнить ${amount} Skip, чтобы получить \"${emblem}\" Эмблема",
+ 	 	 	"trans": "Собери ${amount} Skip, чтобы получить \"${emblem}\" эмблема",
  	 	 	"eng": "Collect ${amount} skip points to get \"${emblem}\" emblem"
  	 	},
  	 	"desc2": {
@@ -8541,7 +8541,7 @@
  	 	 	 	"amount",
  	 	 	 	"emblem"
  	 	 	],
- 	 	 	"trans": "выполнить ${amount} Skip, чтобы получить \"${emblem}\" Эмблема",
+ 	 	 	"trans": "Собери ${amount} Skip, чтобы получить \"${emblem}\" эмблема",
  	 	 	"eng": "Collect ${amount} skip points to get \"${emblem}\" emblem"
  	 	},
  	 	"desc3": {
@@ -8549,7 +8549,7 @@
  	 	 	 	"amount",
  	 	 	 	"emblem"
  	 	 	],
- 	 	 	"trans": "выполнить ${amount} Skip, чтобы получить \"${frameName}\" Эмблема",
+ 	 	 	"trans": "Собери ${amount} Skip, чтобы получить \"${frameName}\" эмблема",
  	 	 	"eng": "Collect ${amount} skip points to get \"${emblem}\" emblem"
  	 	},
  	 	"desc4": {
@@ -8557,7 +8557,7 @@
  	 	 	 	"amount",
  	 	 	 	"frameName"
  	 	 	],
- 	 	 	"trans": "Выполнить ${amount} Skip, чтобы получить постоянный \"${frameName}\"",
+ 	 	 	"trans": "Собери ${amount} Skip, чтобы получить постоянный \"${frameName}\" рамка чата для пожертвований",
  	 	 	"eng": "Collect ${amount} skip points to receive permanent \"${frameName}\" donation chat frame"
  	 	},
  	 	"chatMessage1": {
@@ -8568,7 +8568,7 @@
  	 	 	"eng": "Receive at ${points} skip points"
  	 	},
  	 	"instructions1": {
- 	 	 	"trans": "Пропустить точку, которую вы зарабатываете, основан на продолжительности пропуска:",
+ 	 	 	"trans": "Заработанное вами кол-во скип поинтов зависит от продолжительности пропуска:",
  	 	 	"eng": "Skip point you earn is base on skip duration:"
  	 	},
  	 	"instructions2": {
@@ -8590,7 +8590,7 @@
  	},
  	"skipPromoSmall": {
  	 	"title": {
- 	 	 	"trans": "Пропустить эксклюзивную косметику",
+ 	 	 	"trans": "Пропустить для эксклюзивной косметики",
  	 	 	"eng": "Skip for exclusive cosmetics"
  	 	},
  	 	"desc": {
@@ -8665,21 +8665,21 @@
  	 	 	"vars": [
  	 	 	 	"name"
  	 	 	],
- 	 	 	"trans": "Добавлена новая кадр чата \"${name}\"",
+ 	 	 	"trans": "Добавлена новая рамка чата донора \"${name}\"",
  	 	 	"eng": "Added a new \"${name}\" donator chat frame"
  	 	}
  	},
  	"thiefPromo": {
  	 	"title": {
- 	 	 	"trans": "Обновление юбилей!",
+ 	 	 	"trans": "Юбилейное обновление!",
  	 	 	"eng": "Anniversary Update!"
  	 	},
  	 	"desc1": {
- 	 	 	"trans": "Techno Thief будет редко выскочить в Dungeon, когда вы откроете ящики, они падают лучшую добычу, включая более высокие шансы на эпические предметы",
+ 	 	 	"trans": "Techno Thief будет редко выскакивать в Dungeon, когда вы откроете ящики, они дают лучшую добычу, включая более высокие шансы на эпические предметы",
  	 	 	"eng": "Techno Thief will spawn rarely in dungeon when you open crates, they drop better loots, including higher chance of epic items"
  	 	},
  	 	"desc2": {
- 	 	 	"trans": "Два новых кадрах -дончика добавлены",
+ 	 	 	"trans": "Добавлены два новых donator frames",
  	 	 	"eng": "Two new donator frames added"
  	 	}
  	},
@@ -8812,7 +8812,7 @@
  	 	},
  	 	"startButton": {
  	 	 	"title": {
- 	 	 	 	"trans": "Запустить",
+ 	 	 	 	"trans": "Старт",
  	 	 	 	"eng": "start"
  	 	 	}
  	 	}
@@ -8834,7 +8834,7 @@
  	 	 	 	"eng": "Equipment Tier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Оборудование с уровнем равным или ниже выбранного выбранного уровня.",
+ 	 	 	 	"trans": "Оборудование с уровнем равным или ниже выбранного уровня.",
  	 	 	 	"eng": "Equipments with tier equal or lower than the selected tier selected."
  	 	 	}
  	 	},
@@ -8846,7 +8846,7 @@
  	 	},
  	 	"cacheTier": {
  	 	 	"title": {
- 	 	 	 	"trans": "Кэш -уровень",
+ 	 	 	 	"trans": "Уровень кэша",
  	 	 	 	"eng": "Cache Tier"
  	 	 	},
  	 	 	"description": {
@@ -8887,7 +8887,7 @@
  	 	 	"vars": [
  	 	 	 	"date"
  	 	 	],
- 	 	 	"trans": "Скидка заканчивается ${date}",
+ 	 	 	"trans": "Скидка заканчивается в ${date}",
  	 	 	"eng": "Discount ends in ${date}"
  	 	},
  	 	"endDate": {
@@ -9024,7 +9024,7 @@
  	 	 	"eng": "You have successfully sent ${donationName} donation chat frame to player \"${playerName}\""
  	 	},
  	 	"hasDonation": {
- 	 	 	"trans": "Уже используется",
+ 	 	 	"trans": "Используется",
  	 	 	"eng": "owned"
  	 	},
  	 	"donationPrice": {
@@ -9083,17 +9083,17 @@
  	},
  	"captcha": {
  	 	"success": {
- 	 	 	"trans": "PIN -код принят",
+ 	 	 	"trans": "PIN код принят",
  	 	 	"eng": "Pin code accepted"
  	 	},
  	 	"invalid": {
- 	 	 	"trans": "Неверный PIN -код",
+ 	 	 	"trans": "Неверный PIN код",
  	 	 	"eng": "Invalid Pin Code"
  	 	}
  	},
  	"chatModuleHelper": {
  	 	"aiConnectNotAvailable": {
- 	 	 	"trans": "Доступ запрещен. Slanc не подключен к чату",
+ 	 	 	"trans": "Доступ запрещен. SLANC не подключен к чату",
  	 	 	"eng": "Permission Denied. SLANC not connected to chat"
  	 	}
  	},
@@ -9104,7 +9104,7 @@
  	 	 	 	 	"player",
  	 	 	 	 	"item"
  	 	 	 	],
- 	 	 	 	"trans": "🎉congratulation! ${player} получил ${item}!",
+ 	 	 	 	"trans": "🎉Поздравляем! ${player} получил ${item}!",
  	 	 	 	"eng": "🎉Congratulation! ${player} received ${item}!"
  	 	 	}
  	 	}
@@ -9144,7 +9144,7 @@
  	 	 	 	"eng": "You can't perform this action now"
  	 	 	},
  	 	 	"invalidTravelLink": {
- 	 	 	 	"trans": "Неверная ссылка на поездки, если упорно перезагрузите, перезагрузите",
+ 	 	 	 	"trans": "Неверная ссылка, перезагрузите страницу",
  	 	 	 	"eng": "Invalid Travel Link, if persist please reload"
  	 	 	},
  	 	 	"recipeDisabled": {
@@ -9185,15 +9185,15 @@
  	 	 	 	"eng": "You have received a street cred from ${playerName}"
  	 	 	},
  	 	 	"success": {
- 	 	 	 	"trans": "Вы дали Daily Street Cred.",
+ 	 	 	 	"trans": "Вы дали ежедневный уличный кредит.",
  	 	 	 	"eng": "You have given daily street cred."
  	 	 	},
  	 	 	"notEnoughLevelError": {
- 	 	 	 	"trans": "Вы должны быть 10 -го уровня или выше, чтобы дать Player Street Cred",
+ 	 	 	 	"trans": "Вы должны быть 10-го уровня или выше, чтобы дать игроку улечный кредит",
  	 	 	 	"eng": "You must be level 10 or above to give player street cred"
  	 	 	},
  	 	 	"cooldownError": {
- 	 	 	 	"trans": "Вы еще не можете отдать должное (один раз в день)",
+ 	 	 	 	"trans": "Вы не можете дать уличный кредит (один раз в день)",
  	 	 	 	"eng": "You cannot give street cred yet (once every day)"
  	 	 	}
  	 	}
